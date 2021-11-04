@@ -28,7 +28,7 @@ and [Create React App](https://github.com/facebookincubator/create-react-app).
 To use, simply require the package in your project’s entry file e.g.
 
 ```javascript
-// Load CamingCode typeface
+// Load CamingoCode typeface
 require('@mayvena/camingocode-npm')
 ```
 
