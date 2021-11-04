@@ -1,7 +1,7 @@
 # camingocode-npm
 
 [![npm (scoped)](https://img.shields.io/npm/v/@mayvena/camingocode-npm.svg)](https://www.npmjs.com/package/@mayvena/camingocode-npm)
-[![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@@mayvena/camingocode-npm.svg)](https://www.npmjs.com/package/@mayvena/camingocode-npm)
+[![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@mayvena/camingocode-npm.svg)](https://www.npmjs.com/package/@mayvena/camingocode-npm)
 
 An npm module containing the CamingoCode font
 
