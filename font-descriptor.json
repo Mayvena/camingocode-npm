@@ -3,7 +3,7 @@
     "family":"CamingoCode",
     "variants":[
         {
-            "id": "400",
+            "id": "regular",
             "eot": "./files/camingocode-regular.eot",
             "font-family": "'CamingoCode'",
             "font-style": "normal",
@@ -17,7 +17,7 @@
             "errored": false
         },
         {
-            "id": "401",
+            "id": "400",
             "eot": "./files/camingocode-italic.eot",
             "font-family": "'CamingoCode'",
             "font-style": "italic",
