@@ -1,0 +1,25 @@
+{
+	"name":"@mayvena/camingocode-npm",
+	"version":"0.1.0",
+	"description":"A module, containing the CamingoCode monospace font",
+	"licence":"CC",
+	"repository":{
+		"type":"git",
+		"url":"git+https://github.com/Mayvena/camingocode-npm.git",
+		"directory":"Mayvena/camingocode-npm"
+	},
+	"keywords":[
+		"font",
+		"camingocode",
+		"camingo",
+		"monospace"
+	],
+	"author":{
+		"name":"Mayvena",
+		"email":"acid.pond@gmail.com"
+	},
+	"main":"index.css",
+	"publishConfig": {
+		"access":"public"
+	}
+}
