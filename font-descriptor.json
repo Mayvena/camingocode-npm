@@ -1,0 +1,71 @@
+{
+    "id":"camingocode",
+    "family":"CamingoCode",
+    "variants":[
+        {
+            "id": "400",
+            "eot": "./files/camingocode-regular.eot",
+            "font-family": "'CamingoCode'",
+            "font-style": "normal",
+            "font-weight": "400",
+            "ttf": "./files/camingocode-regular.ttf",
+            "local":[
+                "CamingoCode"
+            ],
+            "woff":"./files/camingocode-regular.woff",
+            "svg":"./files/camingocode-regular.svg",
+            "errored": false
+        },
+        {
+            "id": "401",
+            "eot": "./files/camingocode-italic.eot",
+            "font-family": "'CamingoCode'",
+            "font-style": "italic",
+            "font-weight": "400",
+            "ttf": "./files/camingocode-italic.ttf",
+            "local":[
+                "CamingoCode Italic",
+                "CamingoCode-Italic"
+            ],
+            "woff":"./files/camingocode-italic.woff",
+            "svg":"./files/camingocode-italic.svg",
+            "errored": false
+        },
+        {
+            "id": "700",
+            "eot": "./files/camingocode-bold.eot",
+            "font-family": "'CamingoCode'",
+            "font-style": "normal",
+            "font-weight": "700",
+            "ttf": "./files/camingocode-bold.ttf",
+            "local":[
+                "CamingoCode Bold",
+                "CamingoCode-Bold"
+            ],
+            "woff":"./files/camingocode-bold.woff",
+            "svg":"./files/camingocode-bold.svg",
+            "errored": false
+        },
+        {
+            "id": "701",
+            "eot": "./files/camingocode-bolditalic.eot",
+            "font-family": "'CamingoCode'",
+            "font-style": "italic",
+            "font-weight": "700",
+            "ttf": "./files/camingocode-bolditalic.ttf",
+            "local":[
+                "CamingoCode BoldItalic",
+                "CamingoCode-BoldItalic"
+            ],
+            "woff":"./files/camingocode-bolditalic.woff",
+            "svg":"./files/camingocode-bolditalic.svg",
+            "errored": false
+        }
+    ],
+    "subsets":[
+        "latin"
+    ],
+    "category": "monotype",
+    "defSubset": "latin",
+    "defVariant": "regular"
+}

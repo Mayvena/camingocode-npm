@@ -1,0 +1,43 @@
+/* CamingoCode - Regular */
+@font-face {
+    font-family: 'CamingoCode';
+    font-style: normal;
+    font-display: swap;
+    font-weight: 400;
+    src:
+      local('CamingoCode'),
+      url('./files/camingocode-regular.woff') format('woff');
+}
+/* CamingoCode - Bold */
+@font-face {
+    font-family: 'CamingoCode';
+    font-style: normal;
+    font-display: swap;
+    font-weight: 700;
+    src:
+      local('CamingoCode Bold'),
+      local('CamingoCode-Bold'), 
+      url('./files/camingocode-bold.woff') format('woff');
+}
+/* CamingoCode - Italic */
+@font-face {
+    font-family: 'CamingoCode';
+    font-style: italic;
+    font-display: swap;
+    font-weight: 400;
+    src:
+      local('CamingoCode Italic'),
+      local('CamingoCode-Italic'), 
+      url('./files/camingocode-italic.woff') format('woff');
+}
+/* CamingoCode - Italic */
+@font-face {
+    font-family: 'CamingoCode';
+    font-style: italic;
+    font-display: swap;
+    font-weight: 700;
+    src:
+      local('CamingoCode BoldItalic'),
+      local('CamingoCode-BoldItalic'), 
+      url('./files/camingocode-bolditalic.woff') format('woff');
+}
