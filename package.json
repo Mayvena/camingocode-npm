@@ -1,6 +1,6 @@
 {
 	"name":"@mayvena/camingocode-npm",
-	"version":"0.1.0",
+	"version":"0.2.0",
 	"description":"A module, containing the CamingoCode monospace font",
 	"licence":"CC",
 	"repository":{
