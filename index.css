@@ -6,6 +6,7 @@
     font-weight: 400;
     src:
       local('CamingoCode'),
+      url('./files/camingocode-regular.woff2') format('woff2'),
       url('./files/camingocode-regular.woff') format('woff');
 }
 /* CamingoCode - Bold */
@@ -17,6 +18,7 @@
     src:
       local('CamingoCode Bold'),
       local('CamingoCode-Bold'), 
+      url('./files/camingocode-bold.woff2') format('woff2'),
       url('./files/camingocode-bold.woff') format('woff');
 }
 /* CamingoCode - Italic */
@@ -28,6 +30,7 @@
     src:
       local('CamingoCode Italic'),
       local('CamingoCode-Italic'), 
+      url('./files/camingocode-italic.woff2') format('woff2'),
       url('./files/camingocode-italic.woff') format('woff');
 }
 /* CamingoCode - Italic */
@@ -39,5 +42,6 @@
     src:
       local('CamingoCode BoldItalic'),
       local('CamingoCode-BoldItalic'), 
+      url('./files/camingocode-bolditalic.woff2') format('woff2'),
       url('./files/camingocode-bolditalic.woff') format('woff');
 }

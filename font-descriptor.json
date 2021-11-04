@@ -65,7 +65,7 @@
     "subsets":[
         "latin"
     ],
-    "category": "monotype",
+    "category": "monospace",
     "defSubset": "latin",
     "defVariant": "regular"
 }
